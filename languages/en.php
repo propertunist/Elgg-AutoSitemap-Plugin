@@ -13,12 +13,12 @@ return array(
 	'auto_sitemap:max_urls:title' => 'Max number of URLs in each sitemap',
 	'auto_sitemap:max_urls:description' => 'Google recommends to keep in the sitemap only latest URLs . This will save you a lot of traffic and your old urls will remain indexed in the search engines ',
 	'auto_sitemap:use_xsl:title' => 'Use stylesheet in the sitemap?',
-	'auto_sitemap:use_xsl:description' => 'If enabled, you will be able to navigate between different sitemaps via links as in a html document, and will not affect the way that search engines treat your sitemap. Disble it only if you have some kind of problem to see the sitemap',
+	'auto_sitemap:use_xsl:description' => 'If enabled, you will be able to navigate between different sitemaps via links as in a html document, and will not affect the way that search engines treat your sitemap. Disable it only if you have some kind of problem to see the sitemap',
 	'auto_sitemap:schema:title' => 'Scheme of the sitemap',
 	'auto_sitemap:schema:description' => 'For the time being there is only implemented version 0.9 of sitemaps.org.',
 	'auto_sitemap:main_url:title' => 'Main URL of the site',
 
-	/* Opciones dropdown*/
+	/* Select options */
 	'auto_sitemap:updatefreq:disabled' => 'disabled (Skip this value)',
 	'auto_sitemap:updatefreq:always' => 'continuously (always)',
 	'auto_sitemap:updatefreq:hourly' => 'every hour (hourly)',

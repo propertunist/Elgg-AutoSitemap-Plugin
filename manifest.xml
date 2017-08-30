@@ -6,7 +6,7 @@
 	<category>User admin</category>
 	<category>Site admin</category>
 	<blurb>auto_sitemap</blurb>
-	<description>Create a dinamic sitemap.xml file based on elgg public entities</description>
+	<description>Create a dynamic sitemap.xml file based on elgg public entities</description>
 	<copyright>See COPYRIGHT.txt</copyright>
 	<license>GNU Public License version 2</license>
 	<requires>
